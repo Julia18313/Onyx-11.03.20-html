@@ -1,0 +1,18 @@
+html, body, ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+*, *:after, *:before{
+    box-sizing: border-box;
+}
+
+.header{
+    width: 350px;
+    height: 100vh; 
+}
+
+ul .li .ol{
+    list-style: none;
+}
