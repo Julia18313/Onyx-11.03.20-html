@@ -9,10 +9,9 @@ html, body, ul{
 }
 
 .header{
-    width: 350px;
-    height: 100vh; 
+    width: 290px;
+    height: 100vh;
 }
 
-ul .li .ol{
-    list-style: none;
-}
+.vertical-menu
+
